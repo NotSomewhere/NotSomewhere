@@ -1,4 +1,5 @@
-# NotSomewhere
+# NotSomewhere <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3330193" style='border:none;'></iframe>
+
 ### Offensive Security • Red Teaming • Exploit Development
 
 Ich bin ein angehender Offensive Security Engineer aus Österreich.  
@@ -8,12 +9,14 @@ Exploit-Basics und baue Step-by-Step ein technisches OffSec-Portfolio auf.
 Derzeit bin ich in einer IT-Systemtechniker-Lehre
 und spezialisiere mich privat auf Cyber Security.
 
+
+
 ---
 
 ## 🧠 Schwerpunkte
 
 - Offensive Security Engineering  
-- Technisches Red Teaming (ohne Social Engineering)  
+- Technisches Red Teaming 
 - Exploit Development Grundlagen  
 - Linux Hardening & Networking  
 - Python Security Tools  
