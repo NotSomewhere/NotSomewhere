@@ -5,7 +5,7 @@ Ich bin ein angehender Offensive Security Engineer aus Österreich.
 Ich arbeite täglich mit Arch Linux, lerne offensives Tooling,  
 Exploit-Basics und baue Step-by-Step ein technisches OffSec-Portfolio auf.
 
-Derzeit bin ich in einer IT-Systemtechniker-Lehre (Bechtle Wien)  
+Derzeit bin ich in einer IT-Systemtechniker-Lehre
 und spezialisiere mich privat auf Cyber Security.
 
 ---
