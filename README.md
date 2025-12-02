@@ -66,26 +66,8 @@ und spezialisiere mich privat auf Cyber Security.
 ## 📂 Projekte
 
 Ich baue mein OffSec-Portfolio aktuell auf.  
-Die ersten Repositories werden in den Bereichen entstehen:
+**In arbeit**
 
-- **Python Security Tools** (Recon, Bruteforce, Scanning)  
-- **Exploit Development Übungen** (Buffer Overflows, GDB-Workflows)  
-- **Reverse Engineering Lernprojekte**  
-- **Raspberry-Pi Honeypot**  
-- **TryHackMe / HTB Notes** *(privat)*
-
-Die Repos werden laufend ergänzt, sobald fertige Tools und Labs entstehen.
-
----
-
-## 🎯 Ziele (2025–2027)
-
-- eJPT v2  
-- PNPT  
-- OSCP  
-- CRTO I  
-- HackTheBox: „Pro Hacker“  
-- Einstieg als Offensive Security Engineer  
 
 ---
 
