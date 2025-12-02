@@ -9,12 +9,6 @@ Exploit-Basics und baue Step-by-Step ein technisches OffSec-Portfolio auf.
 Derzeit bin ich in einer IT-Systemtechniker-Lehre
 und spezialisiere mich privat auf Cyber Security.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3330193" 
-        width="100%" 
-        height="400" 
-        style="border:none; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-</iframe>
-
 ---
 
 ## 🧠 Schwerpunkte
