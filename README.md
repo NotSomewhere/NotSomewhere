@@ -65,7 +65,7 @@ Exploit-Basics und baue Step-by-Step ein technisches OffSec-Portfolio auf.
 
 ## 📫 Kontakt
 
-**E-Mail:** notsomewhere@proton.me  
+**E-Mail:** notsomenet [at] proton [dot] me
 **GitHub:** https://github.com/NotSomewhere
 
 ---
